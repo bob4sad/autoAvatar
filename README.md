@@ -1,2 +1,6 @@
-# bob4golang
-i am learning golang here
+## autoAvatar
+#### Приложение создаёт аватар по введённому тексту
+------
+## Usage:
+**go run autoAvatar.go -input=Text**
+
